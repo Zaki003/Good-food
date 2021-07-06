@@ -75,10 +75,10 @@ p{
 } 
 .recipe-images{
     width: 100%;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 form{
-    background-color: rgb(179, 177, 177);
+    background-color: rgb(233, 229, 229);
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 100px;
