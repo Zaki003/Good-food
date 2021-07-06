@@ -1,0 +1,55 @@
+.orange-color{
+    color: orange;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    color: gray;
+    font-size: 2em;
+}
+p{
+    font-size: 18px;
+}
+.flexible-container{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange, rgb(247, 55, 21));
+    color: white;
+    padding: 20px 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgb(160, 160, 160);
+}
+#section-background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.div-width{
+    width: 50%;
+    padding-left: 5%;
+}
+#first-image{
+    width: 90%;
+}
+#second-image{
+    width: 55%;
+    padding-left: 100px;
+}
+.div-para{
+    padding-top: 120px;
+}
+#first-paragraph{
+    padding-bottom: 50px;
+    padding-right: 5%;
+}
+#second-paragraph{
+    padding-right: 20%;
+    padding-bottom: 70px;
+}
