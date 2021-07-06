@@ -17,7 +17,7 @@ p{
 .flexible-container{
     display: flex;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -52,4 +52,42 @@ p{
 #second-paragraph{
     padding-right: 20%;
     padding-bottom: 70px;
+}
+#recipe-section{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#recipies-description{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.recipe-with-img{
+    width: 30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border-radius: 20px;
+    box-shadow: 0 0 20px gray;
+    padding-top: 17px;
+    padding-right: 17px;
+    padding-left: 17px;
+    font-size: 20px;
+} 
+.recipe-images{
+    width: 100%;
+    border-radius: 30px;
+}
+footer{
+    background-color: rgb(17, 13, 26);
+    text-align: center;
+    height: 220px;
+}
+footer h3{
+    font-size: 1.5em;
+    font-weight: 700;
+    padding-top: 50px;
+    color: gray;
+}
+footer p{
+    color: white;
 }
