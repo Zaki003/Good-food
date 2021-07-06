@@ -77,6 +77,31 @@ p{
     width: 100%;
     border-radius: 30px;
 }
+form{
+    background-color: rgb(179, 177, 177);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 20px 50px 50px;
+}
+form h4{
+    font-size: 18px;
+}
+form input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+}
+#submit-button{
+    color: white;
+    background-color: rgb(10, 8, 8);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
 footer{
     background-color: rgb(17, 13, 26);
     text-align: center;
